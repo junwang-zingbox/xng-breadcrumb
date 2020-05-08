@@ -1,4 +1,4 @@
-# This package is folked from https://www.npmjs.com/package/xng-breadcrumb
+# This package is forked from https://www.npmjs.com/package/xng-breadcrumb
 
 > Adding 2 configures:
 
